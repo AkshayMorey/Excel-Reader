@@ -1,0 +1,10 @@
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.ResolveComReference.cache
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Form1.resources
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Properties.Resources.resources
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.GenerateResource.cache
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+C:\Users\Akshay.Dell\source\repos\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
